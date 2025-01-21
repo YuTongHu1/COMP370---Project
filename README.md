@@ -7,9 +7,9 @@ Completed
 ## Context
 This project was designed to analyze North American media coverage of Taylor Swift. It was intended to be completed in teams of 3-4, with teams randomly assigned by the instructor.
 ### Team Members:
-Yi Jia Tan
-Minna Feng
-Jinwon Lee
+Yi Jia Tan\n
+Minna Feng\n
+Jinwon Lee\n
 
 ## Files Included
 Final Submission: Revised version submitted for grading.
